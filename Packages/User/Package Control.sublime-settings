@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Case Conversion",
+		"ColorPicker",
+		"Emmet",
+		"GotoDocumentation",
+		"Material Theme",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel"
+	]
+}
