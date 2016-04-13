@@ -1,10 +1,21 @@
 {
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
-	"font_size": 11.0,
-	"ignored_packages":
+	"font_options":
 	[
-		"Vintage"
+		"gray_antialias"
 	],
+	"font_size": 11.0,
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"overlay_scroll_bars": "enabled",
 	"theme": "Material-Theme.sublime-theme",
-	"word_wrap": true
+	"word_wrap": true,
+	"material_theme_small_tab" : true
 }
