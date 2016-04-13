@@ -16,7 +16,7 @@ My Sublime Text 3 settings
 - [Case Conversion](https://packagecontrol.io/packages/Case%20Conversion) - It converts the current word/token between cases, and separated words
 - [Emmet](https://sublime.wbond.net/packages/Emmet) (ex Zen Coding) - An essential toolkit of web developers working with HTML/CSS
 - [GoToDocumentation](https://packagecontrol.io/packages/GotoDocumentation) - A Sublime Text plugin to jump to documentation for the current keyword
-- [LiveReload](https://github.com/Grafikart/ST3-LiveReload) (thanks to [Grafikart](https://www.grafikart.fr)) - A Web browser page reloading plugin
+- [LiveReload](https://github.com/alepez/LiveReload-sublimetext3) - A Web browser page reloading plugin
 - [SideBar Enhancements](https://sublime.wbond.net/packages/SideBarEnhancements) - Enhancements for your sidebar
 - [SublimeCodeIntel](https://sublime.wbond.net/packages/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
 
